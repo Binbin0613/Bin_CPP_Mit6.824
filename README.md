@@ -16,6 +16,6 @@ MIT6.824 distributed system C++Version
 - [ubuntu教程](https://blog.csdn.net/weixin_45938441/article/details/124018485?fromshare=blogdetail&sharetype=blogdetail&sharerId=124018485&sharerefer=PC&sharesource=m0_46472374&sharefrom=from_link)
 
 参考：
--[翻译：MapReduce：Simplified Data Processing on Large Clusters MapReduce：面向大型集群的简化数据处理](https://www.cnblogs.com/fuzhe1989/p/3413457.html)
+- 论文翻译： [MapReduce：Simplified Data Processing on Large Clusters（面向大型集群的简化数据处理）](https://www.cnblogs.com/fuzhe1989/p/3413457.html)
 
--[视频教程：MapReduce](https://www.bilibili.com/video/BV1Vb411m7go/?from=search&seid=8676892438131853528)
+- 视频教程： [视频教程：MapReduce](https://www.bilibili.com/video/BV1Vb411m7go/?from=search&seid=8676892438131853528)
